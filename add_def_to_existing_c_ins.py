@@ -1,6 +1,5 @@
 class C:pass
 
-
 c = C()
 
 def F(o, n, f):
